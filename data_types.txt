@@ -1,0 +1,1 @@
+[{"id":1,"label":"ransomware"},{"id":2,"label":"darknet market"},{"id":3,"label":"bitcoin tumbler"},{"id":4,"label":"blackmail scam"},{"id":5,"label":"sextortion"},{"id":99,"label":"other"}]
