@@ -1,1 +1,5 @@
-[{"id":1,"label":"ransomware"},{"id":2,"label":"darknet market"},{"id":3,"label":"bitcoin tumbler"},{"id":4,"label":"blackmail scam"},{"id":5,"label":"sextortion"},{"id":99,"label":"other"}]
+1 - Ransomware
+2- Blackmarket
+3 - BTC tumbler
+4 - Scam
+5 - Benign
